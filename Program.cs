@@ -6,7 +6,11 @@ namespace gettingstartedwithgitcode
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            for (int index = 0; index < 10; indexer++)
+            {
+
+                Console.WriteLine("Hello World!");
+            }
         }
     }
 }
